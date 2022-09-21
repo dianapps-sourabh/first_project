@@ -1,2 +1,3 @@
 console.log("my first repo");
-console.log("my sencond commit");
+console.log("my second commit");
+console.log("my third commit");
